@@ -29,8 +29,8 @@ Vi spesialiserer oss på å utvikle og levere teknologiske løsninger som forenk
 ---
 
 ## 📞 Kontakt oss
-📧 **E-post**: [kontakt@triotek.no](mailto:kontakt@triotek.no)  
-🌐 **Nettside**: [www.triotek.no](https://www.triotek.no)  
+📧 **E-post**: [kontakt@triotek.no](mailto:kontakt@triotek.net)  
+🌐 **Nettside**: [www.triotek.no](https://www.triotek.net)  
 📍 **Lokasjon**: Trondheim, Norge  
 
 ---
