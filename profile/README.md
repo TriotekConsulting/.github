@@ -1,6 +1,5 @@
 # 🌐 Velkommen til Triotek Consulting
 
-![Triotek Banner](https://via.placeholder.com/1000x300?text=Triotek+Consulting)  
 *Vi leverer digitale løsninger som gjør en forskjell.*  
 
 ---
