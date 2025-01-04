@@ -37,4 +37,5 @@ Vi spesialiserer oss på å utvikle og levere teknologiske løsninger som forenk
 ---
 
 ![Divider](https://via.placeholder.com/1000x2?text=+)  
+
 *"Teknologi for fremtiden, skreddersydd for deg."*
